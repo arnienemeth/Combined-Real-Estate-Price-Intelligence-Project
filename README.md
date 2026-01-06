@@ -85,7 +85,7 @@ Quick start (local)
 Clone
 
 bash
-git clone https://github.com/YOUR_USERNAME/real-estate-intelligence.git
+git clone https://github.com/arnienemeth/Combined-Real-Estate-Price-Intelligence-Project
 cd real-estate-intelligence
 Create environment & install
 
