@@ -1,0 +1,137 @@
+{
+  "dropdown_options": {
+    "neighborhoods": [
+      "Blmngtn",
+      "Blueste",
+      "BrDale",
+      "BrkSide",
+      "ClearCr",
+      "CollgCr",
+      "Crawfor",
+      "Edwards",
+      "Gilbert",
+      "Greens",
+      "GrnHill",
+      "IDOTRR",
+      "Landmrk",
+      "MeadowV",
+      "Mitchel",
+      "NAmes",
+      "NPkVill",
+      "NWAmes",
+      "NoRidge",
+      "NridgHt",
+      "OldTown",
+      "SWISU",
+      "Sawyer",
+      "SawyerW",
+      "Somerst",
+      "StoneBr",
+      "Timber",
+      "Veenker"
+    ],
+    "house_styles": [
+      "1.5Fin",
+      "1.5Unf",
+      "1Story",
+      "2.5Fin",
+      "2.5Unf",
+      "2Story",
+      "SFoyer",
+      "SLvl"
+    ],
+    "exterior": [
+      "AsbShng",
+      "AsphShn",
+      "BrkComm",
+      "BrkFace",
+      "CBlock",
+      "CemntBd",
+      "HdBoard",
+      "ImStucc",
+      "MetalSd",
+      "Plywood",
+      "PreCast",
+      "Stone",
+      "Stucco",
+      "VinylSd",
+      "Wd Sdng",
+      "WdShing"
+    ]
+  },
+  "feature_ranges": {
+    "Overall Qual": {
+      "min": 1.0,
+      "max": 10.0,
+      "median": 6.0
+    },
+    "Gr Liv Area": {
+      "min": 334.0,
+      "max": 5642.0,
+      "median": 1442.0
+    },
+    "Garage Cars": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 2.0
+    },
+    "Garage Area": {
+      "min": 0.0,
+      "max": 1488.0,
+      "median": 480.0
+    },
+    "Total Bsmt SF": {
+      "min": 0.0,
+      "max": 6110.0,
+      "median": 990.0
+    },
+    "1st Flr SF": {
+      "min": 334.0,
+      "max": 5095.0,
+      "median": 1084.0
+    },
+    "Year Built": {
+      "min": 1872.0,
+      "max": 2010.0,
+      "median": 1973.0
+    },
+    "Full Bath": {
+      "min": 0.0,
+      "max": 4.0,
+      "median": 2.0
+    },
+    "Year Remod/Add": {
+      "min": 1950.0,
+      "max": 2010.0,
+      "median": 1993.0
+    },
+    "TotRms AbvGrd": {
+      "min": 2.0,
+      "max": 15.0,
+      "median": 6.0
+    },
+    "Lot Area": {
+      "min": 1300.0,
+      "max": 215245.0,
+      "median": 9436.5
+    }
+  },
+  "numeric_features": [
+    "Overall Qual",
+    "Gr Liv Area",
+    "Garage Cars",
+    "Garage Area",
+    "Total Bsmt SF",
+    "1st Flr SF",
+    "Year Built",
+    "Full Bath",
+    "Year Remod/Add",
+    "TotRms AbvGrd",
+    "Lot Area"
+  ],
+  "categorical_features": [
+    "Neighborhood",
+    "House Style",
+    "Exterior 1st"
+  ]
+}
